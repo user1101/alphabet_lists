@@ -16,3 +16,16 @@ Instructions for use:
 6. A file with extension _LIST.list will be generated in the same directory that your list_alphabet.py is located. 
 
 
+#This is a README for the list_generator_sandbox 
+
+#--------------------------------------------------------------#
+
+Instructions for use:
+
+1. User can go in and edit code for number of string inputs.
+
+2. Enter filename to be generated.
+
+3. You will be prompted to endter the strings.
+
+4. Lists will be generated in filename
